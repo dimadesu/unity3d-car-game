@@ -1,0 +1,71 @@
+body {font-family: "Courier New", Courier, monospace; font-size: 13px; color: black;
+margin: 0; padding: 0; background: white url(/images/bg.jpg) 50% 0 repeat}
+
+p {margin: 0 0 13px}
+
+body, p, table {line-height: 140%}
+
+h1,h2,h3,h4,h5,h6 {margin: 0 0 13px; font-weight: bold; line-height: 1}
+p + h1, p + h2, p + h3, p + h4, p + h5, p + h6,
+ul + h1, ul + h2, ul + h3, ul + h4, ul + h5, ul + h6,
+ol + h1, ol + h2, ol + h3, ol + h4, ol + h5, ol + h6 {padding-top: 10px}
+h1 {color: #0078ab; font-size: 30px}
+h2 {color: #333; font-size: 22px}
+h3 {color: #333; font-size: 18px}
+h4 {color: #333; font-size: 16px}
+h5 {color: #333; font-size: 16px; font-weight: normal}
+h6 {color: #333; font-size: 14px; font-weight: bold}
+
+a {text-decoration: underline; color: #0078ab}
+a img {border: 3px dotted}
+
+ul, ol {margin: 0 0 5px; padding: 0; text-align: left}
+li {margin: 0 0 0 16px; padding: 0 0 8px 0}
+ul ul {margin: 0; padding: 0}
+li li {margin: 0 0 0 16px; padding: 8px 0 0}
+
+form {margin: 0}
+
+input {vertical-align: middle; margin: 0}
+
+/* ------------------------- top of page */
+
+/**/
+.beast {width: 960px; margin: 0 auto}
+.beast_inside {padding: 12px; padding-bottom: 32px}
+
+.head {position: relative; height: 180px}
+.logo a {position: absolute; width: 427px; height: 180px; top: 10px; left: -26px; background: url(/images/logo_dadadagames.png) 0 0 no-repeat}
+
+.middle {/*overflow: hidden; _zoom: 1*/}
+.link_big {font-size: 24px; font-weight: bold}
+.body {float: left; width: 660px; text-align: center}
+.player {padding-bottom: 13px}
+.share {margin: 13px auto; width: 165px}
+
+.hand2 {float: right; width: 252px}
+.hand2 h3 {text-align: center}
+.hand2 .ads {margin: 20px 0 0}
+.hand2 .ads h3 span {background: #98f407}
+
+.no-wrap {white-space: nowrap}
+.liqpay_widget {padding-bottom: 13px; width: 200px; margin: 0 auto}
+.liqpay_widget a img {border: none}
+
+.aligned_left {float: left; margin: 0 10px 10px 0}
+
+.feet {clear: both}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

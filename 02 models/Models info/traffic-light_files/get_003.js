@@ -1,0 +1,1 @@
+{var dz=document;dz.writeln("<a href=\"http://media.fastclick.net/w/click.here?delivery=fastclick.com&sid=23502&sdid=88652&m=6&c=0\" target=\"_blank\"><img src=\"http://bestamericanbanks.com/z-best-banking-images/best-american-banks300x225x.jpg\" border=0 width=300 height=250></a>");}

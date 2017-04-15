@@ -1,0 +1,18 @@
+change log 1.01
+---------------
+- monster's life is now randomly generated every game between 1 and 7
+- added "continue" button to continue playing when game is lost
+- camera doesn't see through walls much
+
+
+add now
+-------
+Put trigger box On Spiral to change camera position
+Глюк, когда едит назад, пока не втыкнётся во что-то
+
+
+later maybe
+-----------
+Remove "donations", make price 2-3$
+Maybe even the price for level 0.5$
+Make more levels

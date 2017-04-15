@@ -1,0 +1,9 @@
+Audio devices: Generic Hardware (default: Generic Hardware)
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4144]
+    Renderer: NVIDIA GeForce GT 330M       
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+                            Cleanup player

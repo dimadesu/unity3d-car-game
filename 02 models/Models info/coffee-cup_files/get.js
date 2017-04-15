@@ -1,0 +1,1 @@
+{var dz=document;dz.writeln("<html></html>");}

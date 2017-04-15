@@ -1,0 +1,1 @@
+{var dz=document;dz.writeln("<a href=\"http://media.fastclick.net/w/click.here?cid=32012&mid=69440&sid=23502&m=1&c=0\" target=\"_blank\"><img src=\"http://cdn.fastclick.net/fastclick.net/cid32012/media69440.gif\" border=0 width=728 height=90 alt=\"Click for $2200 Shopping Spree!\"></a>");}
